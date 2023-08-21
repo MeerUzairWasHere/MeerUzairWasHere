@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+![readmebox](https://github.com/MeerUzairWasHere/MeerUzairWasHere/assets/121447358/68ea3c07-46e9-41fe-a331-ef61a311634f)
+
 🔭 I’m currently working on improving my skills in ReactJS and exploring new design tools and techniques.<br><br>👯 I’m looking to collaborate on projects that challenge me and allow me to learn new things. I'm always eager to work with other developers and designers to create something awesome!<br><br>🤝 I’m looking for help with mastering advanced CSS techniques and staying up-to-date with the latest web development trends.<br><br>🌱 I’m currently learning about modern CSS frameworks and libraries, such as Tailwind CSS, as well as the latest features in ES6.<br><br>💬 Ask me about anything related to frontend web development, from HTML and CSS to JavaScript frameworks and UI/UX design.<br><br>⚡ Fun fact: I love experimenting with different programming languages and tools, and I'm always on the lookout for new and interesting ways to build things!
 
 
@@ -20,7 +22,6 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/meeruxair007) 
 
   
-![readmebox](https://github.com/MeerUzairWasHere/MeerUzairWasHere/assets/121447358/68ea3c07-46e9-41fe-a331-ef61a311634f)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
