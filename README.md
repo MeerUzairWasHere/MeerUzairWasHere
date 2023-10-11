@@ -13,7 +13,9 @@
 💬 Feel free to ask me about anything related to frontend and backend web development. I'm well-versed in HTML, CSS, JavaScript, and various frameworks, and I also have experience in UI/UX design.
 
 ⚡ Fun fact: I'm passionate about experimenting with various programming languages and tools. I'm always on the lookout for new and exciting ways to build things and expand my development repertoire!
+
 ---
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100069300923731) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meeruzairwashere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meer-uzair-1b682b176) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/miruzairwashere) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@meeruzairwashere) 
 ---
