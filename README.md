@@ -2,8 +2,17 @@
 
 ![readmebox](https://github.com/MeerUzairWasHere/MeerUzairWasHere/assets/121447358/68ea3c07-46e9-41fe-a331-ef61a311634f)
 
-🔭 I’m currently working on improving my skills in ReactJS and exploring new design tools and techniques.<br><br>👯 I’m looking to collaborate on projects that challenge me and allow me to learn new things. I'm always eager to work with other developers and designers to create something awesome!<br><br>🤝 I’m looking for help with mastering advanced CSS techniques and staying up-to-date with the latest web development trends.<br><br>🌱 I’m currently learning about modern CSS frameworks and libraries, such as Tailwind CSS, as well as the latest features in ES6.<br><br>💬 Ask me about anything related to frontend web development, from HTML and CSS to JavaScript frameworks and UI/UX design.<br><br>⚡ Fun fact: I love experimenting with different programming languages and tools, and I'm always on the lookout for new and interesting ways to build things!
+🔭 As a Full Stack Developer, I'm dedicated to honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack while also exploring innovative design tools and techniques.
 
+👯 I'm eager to collaborate on projects that challenge me and provide opportunities for continuous learning. Whether it's coding with fellow developers or working closely with designers, I'm enthusiastic about creating remarkable solutions.
+
+🤝 I'm on the lookout for assistance in mastering advanced CSS techniques and staying updated with the latest web development trends. I believe in the importance of ongoing learning and sharing knowledge.
+
+🌱 Currently, I'm immersed in learning about modern CSS frameworks and libraries, such as Tailwind CSS, and staying updated with the latest features in ES6 to enhance my development skills.
+
+💬 Feel free to ask me about anything related to frontend and backend web development. I'm well-versed in HTML, CSS, JavaScript, and various frameworks, and I also have experience in UI/UX design.
+
+⚡ Fun fact: I'm passionate about experimenting with various programming languages and tools. I'm always on the lookout for new and exciting ways to build things and expand my development repertoire!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100069300923731) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meeruzairwashere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meer-uzair-1b682b176) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/miruzairwashere) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@meeruzairwashere) 
