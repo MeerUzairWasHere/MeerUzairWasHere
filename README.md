@@ -2,7 +2,7 @@
 
 ![readmebox](https://github.com/MeerUzairWasHere/MeerUzairWasHere/assets/121447358/68ea3c07-46e9-41fe-a331-ef61a311634f)
 
-🔭 As a Full Stack Developer, I'm dedicated to honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack while also exploring innovative design tools and techniques.
+🔭 As a Full Stack Developer, I'm dedicated to honing my skills in the MERN (MongoDB, Express.js, React, Node.js and Nextjs) stack while also exploring innovative design tools and techniques.
 
 👯 I'm eager to collaborate on projects that challenge me and provide opportunities for continuous learning. Whether it's coding with fellow developers or working closely with designers, I'm enthusiastic about creating remarkable solutions.
 
