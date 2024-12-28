@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 ![readmebox](https://github.com/MeerUzairWasHere/MeerUzairWasHere/assets/121447358/68ea3c07-46e9-41fe-a331-ef61a311634f)
 
   Hi there! I'm an enthusiastic full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js, and Next.js), driven by a passion for continuous learning and innovation.
